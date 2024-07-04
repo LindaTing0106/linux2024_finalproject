@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "futex.h": "c",
+        "mutex.h": "c",
+        "cond.h": "c",
+        "locale": "cpp",
+        "string": "cpp"
+    }
+}
